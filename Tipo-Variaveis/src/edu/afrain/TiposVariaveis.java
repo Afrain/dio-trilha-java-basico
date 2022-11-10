@@ -7,6 +7,7 @@ public class TiposVariaveis {
 		// TIPOS PRIMITIVOS	
 		
 		double salarioMinimo = 2500;
+		System.out.println(salarioMinimo);
 		
 		short numeroCurto = 1;
 		int numeroNormal = numeroCurto;
@@ -15,6 +16,7 @@ public class TiposVariaveis {
 		// CONSTANT
 		
 		final double VALOR_DE_PI = 3.14;
+		System.out.println(VALOR_DE_PI);
 		
 		
 	}
