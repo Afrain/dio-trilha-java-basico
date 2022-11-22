@@ -9,7 +9,7 @@ Após isto, calcule a média semestral das temperaturas e mostre todas as temper
 e em que mês elas ocorreram (mostrar o mês por extenso: 1 – Janeiro, 2 – Fevereiro e etc).
 */
 
-public class ex1 {
+public class Exercicio1 {
 
 	public static void main(String[] args) {
 
